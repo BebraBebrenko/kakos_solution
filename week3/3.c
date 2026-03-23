@@ -1,6 +1,6 @@
-#include "fcntl.h"
-#include "sys/mman.h"
-#include "unistd.h"
+#include <fcntl.h>
+#include <sys/mman.h>
+#include <unistd.h>
 #include <math.h>
 #include <stdlib.h>
 int main(int argc, char **argv) {

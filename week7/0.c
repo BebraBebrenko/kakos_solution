@@ -3,6 +3,7 @@
 #include <unistd.h>
 #include <sys/wait.h>
 #include <stdio.h>
+
 #define N_PROC 2
 
 int main(int argc, char **argv) {
